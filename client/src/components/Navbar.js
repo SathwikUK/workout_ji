@@ -16,6 +16,7 @@ const Navbar = () => {
         <Link to="/">
           <h1>Workout Buddy</h1>
         </Link>
+        <img src="https://static.vecteezy.com/system/resources/previews/015/698/881/large_2x/turtle-exercise-cartoon-doodle-kawaii-anime-coloring-page-cute-illustration-drawing-clipart-character-chibi-manga-comics-free-png.png" alt='workout babu' height={90} width={90}/>
         <nav>
           {user && (
             <div>
